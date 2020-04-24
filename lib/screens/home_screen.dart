@@ -252,7 +252,8 @@ class _HomeScreenState extends State<HomeScreen> {
               getSubCategory(0, "EQUIPMENT", kEquipments[0]),
               getSubCategory(1, "EQUIPMENT", kEquipments[1]),
               getSubCategory(2, "EQUIPMENT", kEquipments[2]),
-              getSubCategory(3, "EQUIPMENT", kEquipments[3]),
+              getSubCategory(3, "EQUIPMENT",
+                  'MOLECULAR PURIFICATION & QUANTITATION'), //using extended name instead
               getSubCategory(4, "EQUIPMENT", kEquipments[4]),
               Divider(color: Colors.white),
               getMainCategory(3, "FORMS", Icons.content_paste),

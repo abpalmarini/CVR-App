@@ -111,6 +111,9 @@ class EquipmentWidget extends StatelessWidget {
                                       ),
                                     ],
                                   ),
+                            SizedBox(
+                              width: 2000,
+                            ),
                           ],
                         ),
                       ),

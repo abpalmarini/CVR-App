@@ -11,7 +11,7 @@ const List<String> kEquipments = [
   'IMAGING',
   'NGS',
   'FLOW CYTOMETRY',
-  'MOLECULAR PURIFICATION & QUANTITATION',
+  'MOLECULAR PURIF',
   'GENERAL',
 ];
 
@@ -33,6 +33,7 @@ const Map<String, int> kDocumentIndex = {
   'equipment': 1,
   'contacts': 0,
   'links': 2,
+  'version_control': 3,
 };
 
 const kTitleStyle = TextStyle(
