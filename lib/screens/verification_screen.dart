@@ -65,7 +65,7 @@ class _VerificationScreenState extends State<VerificationScreen> {
             Padding(
               padding: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
               child: Text(
-                'For secuity reasons, please enter the alphanumeric verification code provided to all staff & students of the CVR.',
+                'For security reasons, please enter the alphanumeric verification code provided to all staff & students of the CVR.',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   color: Colors.white,
