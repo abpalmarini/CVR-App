@@ -38,3 +38,5 @@ lib/generated_plugin_registrant.dart
 
 lib/utilities/transfer_data.dart
 firebase_instructions.md
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json

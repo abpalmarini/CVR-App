@@ -3,7 +3,6 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:cvr/screens/loading_screen.dart';
 import 'screens/verification_screen.dart';
 import 'screens/locked_out_screen.dart';
-import 'package:cvr/utilities/transfer_data.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
